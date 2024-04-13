@@ -7,7 +7,7 @@ We recommend cloning this repository from Google Colab on a GPU runtime.
 
 ## Required libraries
 
-If running locally, be sure to install the following Python libraries before beginning:
+If running locally, be sure to install the following Python libraries (using `pip install` or `conda install`) before beginning:
 
 - numpy
 - matplotlib
