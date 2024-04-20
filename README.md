@@ -5,6 +5,9 @@ We propose an API that queries task-specific fine-tuned BERT models for 1) emoti
 
 We recommend cloning this repository from Google Colab on a GPU runtime.
 
+## PLEASE READ
+These notebooks are runnable but depend on a model which is too large to upload to Github. If you wish to perform inference, you must run the corresponding task notebook before running an inference notebook. For instance, first open and run all cells in **`emotion.ipynb`**. Following this, it is possible to open and run the cells in **`emotion_inference.ipynb`**. If running on Colab, be sure to mount your Google Drive and clone the repository from your root directory.
+
 ## Required libraries
 
 If running locally, be sure to install the following Python libraries (using `pip install` or `conda install`) before beginning:
