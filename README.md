@@ -30,3 +30,5 @@ If running locally, be sure to install the following Python libraries (using `pi
 ## Attribution
 
 The emotion notebook is largely inspired by chapter 3 of the book <a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">Natural Language Processing with Transformers</a> by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. The book is available through O'Reilly Media.
+
+Inspiration for the sentence similarity and named entity recognition (NER) tasks was taken from corresponding tutorials from <a href="https://huggingface.co/learn/nlp-course/chapter3/3?fw=pt">Chapter 3</a> and <a href="https://huggingface.co/learn/nlp-course/chapter7/2?fw=pt">Chapter 7</a> of the Hugging Face Transformers Course.
